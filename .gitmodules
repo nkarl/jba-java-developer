@@ -7,3 +7,6 @@
 [submodule "http-file-server"]
 	path = http-file-server
 	url = https://github.com/nkarl/jba-java-http-file-server
+[submodule "digit-recognition"]
+	path = digit-recognition
+	url = https://github.com/nkarl/jba-java-digit-recognition
