@@ -10,6 +10,3 @@
 [submodule "digit-recognition"]
 	path = digit-recognition
 	url = https://github.com/nkarl/jba-java-digit-recognition
-[submodule "game-of-life"]
-	path = game-of-life
-	url = https://github.com/nkarl/jba-java-game-of-life
