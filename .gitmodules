@@ -13,3 +13,6 @@
 [submodule "game-of-life"]
 	path = game-of-life
 	url = https://github.com/nkarl/jba-java-game-of-life
+[submodule "cinema-REST-service"]
+	path = cinema-REST-service
+	url = https://github.com/nkarl/jba-java-cinema-REST-service
