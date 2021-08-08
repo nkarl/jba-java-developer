@@ -16,3 +16,6 @@
 [submodule "cinema-REST-service"]
 	path = cinema-REST-service
 	url = https://github.com/nkarl/jba-java-cinema-REST-service
+[submodule "sqlite-viewer"]
+	path = sqlite-viewer
+	url = https://github.com/nkarl/jba-java-sqlite-viewer
