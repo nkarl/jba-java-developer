@@ -22,3 +22,6 @@
 [submodule "recipes-db"]
 	path = recipes-db
 	url = https://github.com/nkarl/jba-java-recipes-db
+[submodule "json-database"]
+	path = json-database
+	url = https://github.com/nkarl/jba-java-json-database
